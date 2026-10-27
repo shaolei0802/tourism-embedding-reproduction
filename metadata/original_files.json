@@ -1,0 +1,72 @@
+[
+  {
+    "path": "notebooks/beijing_compare_2021_2025.ipynb",
+    "original_filename": "案例1 change map导出的代码.ipynb",
+    "description": "Original platform-exported notebook",
+    "bytes": 15916,
+    "sha256": "5f201863c8380149c8b2ca45b1870342324d2ee015b67eabf0a8dccb2191ef8a"
+  },
+  {
+    "path": "notebooks/hainan_compare_2021_2025.ipynb",
+    "original_filename": "案例2 change map导出的代码(1).ipynb",
+    "description": "Original platform-exported notebook",
+    "bytes": 15921,
+    "sha256": "75f51bcf748e2f5f957737d1f6d340f4d394c57f9750b3fa5e3448ac45f0fb26"
+  },
+  {
+    "path": "data/visualizations/beijing_browser_rgba.tif",
+    "original_filename": "案例1 change map的导出热力图.tif",
+    "description": "Original georeferenced RGBA visualization; not raw scores",
+    "bytes": 1049960,
+    "sha256": "bfb9914edd1d9693f102aadbaf9d9b5360d0e96ec93ad2a6fa18e9a875060662"
+  },
+  {
+    "path": "data/visualizations/hainan_browser_rgba.tif",
+    "original_filename": "案例2 change map的导出热力图.tif",
+    "description": "Original georeferenced RGBA visualization; not raw scores",
+    "bytes": 6292840,
+    "sha256": "2f5806ec532ccabfb3ae68d5e7ff7e9ddfc158ab424454ec2e428f4fa9140c88"
+  },
+  {
+    "path": "evidence/screenshots/beijing_heatmap_opacity60.jpeg",
+    "original_filename": "案例1 change map截屏图 60透明度.jpeg",
+    "description": "Original browser heatmap screenshot",
+    "bytes": 386276,
+    "sha256": "3e7164452b0af326bdfc6ea76809a23c06a5e2288279a181ec57e6af62629871"
+  },
+  {
+    "path": "evidence/screenshots/hainan_heatmap_opacity100.jpeg",
+    "original_filename": "案例2 change map截屏图.jpeg",
+    "description": "Original browser heatmap screenshot; inconsistent side-panel area label",
+    "bytes": 345890,
+    "sha256": "547cb807e73d576e3ba9a9d024bb43d8bea3cc978812f354a6b75c6cf7c6f45c"
+  },
+  {
+    "path": "evidence/screenshots/beijing_feb2021.jpeg",
+    "original_filename": "案例1前后对比图2021年2月截屏.jpeg",
+    "description": "Original browser reference screenshot",
+    "bytes": 384135,
+    "sha256": "5f97633aa2e84ae27b3c49d28e4614399fd9135237f339b1046bee1c9774f9c9"
+  },
+  {
+    "path": "evidence/screenshots/beijing_feb2025.jpeg",
+    "original_filename": "案例1前后对比图2025年2月截屏.jpeg",
+    "description": "Original browser reference screenshot",
+    "bytes": 381247,
+    "sha256": "7debe9da20c762c63d6b6bfb7d4fa55cb88f5b8071e8616dd962a873c07ff954"
+  },
+  {
+    "path": "evidence/screenshots/hainan_jan2021.jpeg",
+    "original_filename": "案例2前后对比图2021年1月截屏.jpeg",
+    "description": "Original browser reference screenshot",
+    "bytes": 344203,
+    "sha256": "ce6526403f19f16265bd40feffbac838aa842af373bcdd1451d08421ad01bb4c"
+  },
+  {
+    "path": "evidence/screenshots/hainan_jan2025.jpeg",
+    "original_filename": "屏幕截图_27-10-2026_16244_olmoearth.allenai.org.jpeg",
+    "description": "Latest browser screenshot; no loading message; vertical texture remains",
+    "bytes": 380957,
+    "sha256": "3747842e0711614da7de0f78dbba79dd06a041f54a75784bcc1fec641b082d11"
+  }
+]

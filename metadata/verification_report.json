@@ -1,0 +1,13 @@
+{
+  "assembly_date": "2026-10-27",
+  "verification_scope": "Offline checks only",
+  "original_exports_byte_preserved": true,
+  "notebook_code_syntax": "passed except intentionally excluded IPython install magic",
+  "configuration_and_AOI_consistency": "checked by verify_package.py",
+  "synthetic_score_checks": "passed: identical vectors, orthogonal vectors, AOI exclusion, missing-year mask",
+  "runner_syntax": "passed",
+  "live_cloud_rerun": "NOT PERFORMED",
+  "independent_accuracy_validation": "NOT PERFORMED",
+  "historical_environment": "not available; requirements are not a historical lockfile",
+  "public_package_revision": "Updated README and citation metadata; editable manuscript excluded; current upstream coverage recorded."
+}

@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "case": "beijing",
+        "source": "platform-exported notebook",
+        "coordinate_order": "longitude, latitude",
+        "area_km2_approx": 4.092093689861978
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.65913992370832,
+              39.84760743125574
+            ],
+            [
+              116.68936378050216,
+              39.84760743125574
+            ],
+            [
+              116.68936378050216,
+              39.86185706107452
+            ],
+            [
+              116.65913992370832,
+              39.86185706107452
+            ],
+            [
+              116.65913992370832,
+              39.84760743125574
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "case": "hainan",
+        "source": "platform-exported notebook",
+        "coordinate_order": "longitude, latitude",
+        "area_km2_approx": 48.35638706404179
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.14468300877257,
+              19.643497070648664
+            ],
+            [
+              109.22936355852482,
+              19.643497070648664
+            ],
+            [
+              109.22936355852482,
+              19.692688865652542
+            ],
+            [
+              109.14468300877257,
+              19.692688865652542
+            ],
+            [
+              109.14468300877257,
+              19.643497070648664
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

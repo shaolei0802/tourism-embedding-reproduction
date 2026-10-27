@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and the exact repository release or commit used; also credit the upstream OlmoEarth source."
+title: "Tourism Embedding Change Screening reproduction materials"
+authors:
+  - family-names: Shao
+    given-names: Lei
+version: 0.1.0
+type: software
+abstract: "Exploratory OlmoEarth v1.3 comparisons in Beijing and Hainan. Initial materials have not undergone a full independent live-archive rerun."
+preferred-citation:
+  type: generic
+  title: "Democratizing Tourism Land Use Monitoring: An Exploratory Proof of Concept Using Precomputed Earth Embeddings"
+  authors:
+    - family-names: Shao
+      given-names: Lei
+  year: 2026
+  notes: "Manuscript; add the verified public paper URL or DOI when available."

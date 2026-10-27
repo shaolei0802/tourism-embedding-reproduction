@@ -1,0 +1,9 @@
+numpy>=2
+zarr>=3
+obstore
+matplotlib
+pyproj
+rasterio
+shapely
+Pillow
+jupyterlab

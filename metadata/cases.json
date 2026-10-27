@@ -1,0 +1,74 @@
+{
+  "beijing": {
+    "AOI": [
+      [
+        [
+          116.65913992370832,
+          39.84760743125574
+        ],
+        [
+          116.68936378050216,
+          39.84760743125574
+        ],
+        [
+          116.68936378050216,
+          39.86185706107452
+        ],
+        [
+          116.65913992370832,
+          39.86185706107452
+        ],
+        [
+          116.65913992370832,
+          39.84760743125574
+        ]
+      ]
+    ],
+    "YEARS": [
+      2021,
+      2025
+    ],
+    "VIEW": "pair",
+    "EMBEDDING_DIMS": 64,
+    "STORE_URL": "s3://olmoearth/olmoearth-v1-3-embeddings/embeddings.zarr",
+    "STORE_ENDPOINT": "https://data.source.coop",
+    "area_km2_approx": 4.092093689861978,
+    "browser_opacity_percent": 60
+  },
+  "hainan": {
+    "AOI": [
+      [
+        [
+          109.14468300877257,
+          19.643497070648664
+        ],
+        [
+          109.22936355852482,
+          19.643497070648664
+        ],
+        [
+          109.22936355852482,
+          19.692688865652542
+        ],
+        [
+          109.14468300877257,
+          19.692688865652542
+        ],
+        [
+          109.14468300877257,
+          19.643497070648664
+        ]
+      ]
+    ],
+    "YEARS": [
+      2021,
+      2025
+    ],
+    "VIEW": "pair",
+    "EMBEDDING_DIMS": 64,
+    "STORE_URL": "s3://olmoearth/olmoearth-v1-3-embeddings/embeddings.zarr",
+    "STORE_ENDPOINT": "https://data.source.coop",
+    "area_km2_approx": 48.35638706404179,
+    "browser_opacity_percent": 100
+  }
+}
