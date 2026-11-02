@@ -1,0 +1,5 @@
+case,dimensions,years,inside_pixels,valid_pixels,run_archive,workflow_version,source_store
+Beijing,64,2021;2025,40946,40946,Beijing_64D_parity_run.zip,process_isolated_v1,s3://olmoearth/olmoearth-v1-3-embeddings/embeddings.zarr
+Beijing,128,2021;2025,40946,40946,Beijing_128D_parity_run.zip,beijing_process_isolated_128d_v1,s3://olmoearth/olmoearth-v1-3-embeddings/embeddings.zarr
+Hainan,64,2021;2025,483597,483597,Hainan_64D_parity_run.zip,hainan_process_isolated_v1,s3://olmoearth/olmoearth-v1-3-embeddings/embeddings.zarr
+Hainan,128,2021;2025,483597,483597,Hainan_128D_parity_run.zip,hainan_process_isolated_128d_v1,s3://olmoearth/olmoearth-v1-3-embeddings/embeddings.zarr
